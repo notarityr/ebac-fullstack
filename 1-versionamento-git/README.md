@@ -9,7 +9,7 @@ Criar uma branch chamada exercicio_git no repositório recém-criado;
 - foi criada uma branch chamada "exercicios-ebac".
 
 Na branch exercício_git deverá ser adicionado um arquivo nome.txt com o seu nome completo;
-- foi criado através do comando `git commit -m "Adicionando arquivo nome.txt com meu nome completo"`
+- foi criado através do comando `echo "Túlio Cícero Wiles Notari" > nome.txt`
 
 ## Passo-a-passo realizado
 
