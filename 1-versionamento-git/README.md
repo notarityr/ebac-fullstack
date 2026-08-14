@@ -24,12 +24,12 @@ Na branch exercício_git deverá ser adicionado um arquivo nome.txt com o seu no
    git clone https://github.com/notarityr/ebac-fullstack
 ```
    
-5. Criação da branch `exercicio_git`:
+4. Criação da branch `exercicio_git`:
 ```bash
    git checkout -b exercicios-ebac
 ```
    
-6. Adição do arquivo `nome.txt` com meu nome completo:
+5. Adição do arquivo `nome.txt` com meu nome completo:
 
 ```bash
    echo "Túlio Cícero Wiles Notari" > nome.txt
@@ -37,7 +37,7 @@ Na branch exercício_git deverá ser adicionado um arquivo nome.txt com o seu no
    git commit -m "Adicionando arquivo nome.txt com meu nome completo"
 ```
    
-7. Envio da branch para o GitHub:
+6. Envio da branch para o GitHub:
 ```bash
    git push origin exercicios-ebac
 ```
