@@ -11,7 +11,7 @@ Criar uma branch chamada exercicio_git no repositório recém-criado;
 Na branch exercício_git deverá ser adicionado um arquivo nome.txt com o seu nome completo;
 - foi criado através do comando `echo "Túlio Cícero Wiles Notari" > nome.txt`
 
-## Passo a passo realizado
+## Passo a passo realizado:
 
 1. Criação do repositório `ebac-fullstack` no GitHub.
 
