@@ -11,7 +11,7 @@ Adicionar também uma label para cada campo e referenciar essa label ao ID que s
 Enviar esse arquivo para o Github em uma branch chamada exercício_html;
 - enviado para a branch chamada exercicios-ebac
 
-## Passo-a-passo realizado
+## Passo a passo realizado
 
 1. Criação do repositório `ebac-fullstack` no GitHub, realizado previamente.
 
